@@ -11,10 +11,11 @@
 * **Scraper Github**: https://github.com/arapfaik/scraping-glassdoor-selenium
 * **Scraper Artykuł**: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 * **Czyszczenie i obróbka danych**: https://github.com/PlayingNumbers/ds_salary_proj
+* **Upiększenie README**: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 ## Web Scraping
-Ustawiłem web screpera na 500 ogłoszeń z portalu glassdoor.com. Z każdego ogłoszenia otrzymalismy:
+Ustawiłem web screpera na 500 ogłoszeń z portalu [glassdoor.com](https://www.glassdoor.com). Z każdego ogłoszenia otrzymalismy:
 * Job title
 * Salary Estimate
 * Job Description
