@@ -45,3 +45,5 @@ Całość można zaleść w pliku obrobka_danych.ipynb. Tutaj zaprezentuje kilka
 ![alt text](https://github.com/mikolaj1244/ds_niemiecki_rynek/blob/master/localisation.png "Miasta, w których jest najwięcej ofert")
 ![alt text](https://github.com/mikolaj1244/ds_niemiecki_rynek/blob/master/wielkosc_firm.png "Wielkość firm")
 
+##Wartość biznesowa
+Projektu tego nie można wykożystac w biznesie, jednak pokazuje on obszary w których data scientist powinien się rozwijać.Jedną z jego zalet jest ukazanie, że pracy można szukać nie tylko w Polsce ale też za granicą.
