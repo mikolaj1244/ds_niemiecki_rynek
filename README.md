@@ -1,6 +1,6 @@
 # Data Science na rynku niemieckim
 * Dlaczego nie polski rynek? - Takie było moje pierwsze założenie, jednak stwierdziłem, że rynek polski ma mało ofert pracy. Dlatego postawiłem na rynek niemiecki (szczególny nacisk na firmy które wymagają języka angielskiego).
-* Zescrapowałem 500 ogłoszeń pracy z portalu glassdoorprzy pomocy pythona i selenium.
+* Zescrapowałem 500 ogłoszeń pracy z portalu glassdoor przy pomocy pythona i selenium.
 * Sprawdziłem jakich umiejetności oczekują pracodawcy.
 * Sprawdziłem czy niemcy są otwarci na osoby posługujące się językiem angielskim.
 
