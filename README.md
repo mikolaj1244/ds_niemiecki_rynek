@@ -8,8 +8,9 @@
 ## Użyte materiały
 * **Python Wersja**: 3.7
 * **Paczki**: pandas, numpy, seaborn, selenium
-* **craper Github**: https://github.com/arapfaik/scraping-glassdoor-selenium
+* **Scraper Github**: https://github.com/arapfaik/scraping-glassdoor-selenium
 * **Scraper Artykuł**: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+* **Czyszczenie i obróbka danych**: https://github.com/PlayingNumbers/ds_salary_proj
 
 
 ## Web Scraping
@@ -35,4 +36,4 @@ Jest to portal polularny w ameryce dlatego niektóre z powyższych wartości by�
 Wiekszość danych nadawała się do użytku. Dodałem kilka kolumn aby zaprezętować dane w lepszy sposób.
 
 ## Obróbka danych
-Całość mozna zaleść w pliku obrobka_danych.ipynb. Tutaj zaprezentuje kilka przykładowych wykresów.
+Całość można zaleść w pliku obrobka_danych.ipynb. Tutaj zaprezentuje kilka przykładowych wykresów.
