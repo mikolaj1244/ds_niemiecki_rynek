@@ -38,3 +38,7 @@ Wiekszość danych nadawała się do użytku. Dodałem kilka kolumn aby zaprezę
 
 ## Obróbka danych
 Całość można zaleść w pliku obrobka_danych.ipynb. Tutaj zaprezentuje kilka przykładowych wykresów.
+
+![alt text](https://github.com/mikolaj1244/ds_niemiecki_rynek/blob/master/angielski.png "Czy firma przyjmuje osoby mówiące po angielsku")
+
+![alt text](https://github.com/mikolaj1244/ds_niemiecki_rynek/blob/master/localisation.png "Lokalizacja")
