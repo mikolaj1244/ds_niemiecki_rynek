@@ -42,6 +42,6 @@ Całość można zaleść w pliku obrobka_danych.ipynb. Tutaj zaprezentuje kilka
 ![alt text](https://github.com/mikolaj1244/ds_niemiecki_rynek/blob/master/angielski.png "Czy firma przyjmuje osoby mówiące po angielsku")
 ![alt text](https://github.com/mikolaj1244/ds_niemiecki_rynek/blob/master/python.png "Zapotrzebowanie na osoby posługujące się pythonem")
 
-![alt text](https://github.com/mikolaj1244/ds_niemiecki_rynek/blob/master/localisation.png "Lokalizacja")
-
+![alt text](https://github.com/mikolaj1244/ds_niemiecki_rynek/blob/master/localisation.png "Miasta, w których jest najwięcej ofert")
+![alt text](https://github.com/mikolaj1244/ds_niemiecki_rynek/blob/master/wielkosc_firm.png "Wielkość firm")
 
