@@ -6,10 +6,10 @@
 
 
 ## Użyte materiały
-**Python Wersja**: 3.7
-**Paczki**: pandas, numpy, seaborn, selenium
-**craper Github**: https://github.com/arapfaik/scraping-glassdoor-selenium
-**Scraper Artykuł**: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+* **Python Wersja**: 3.7
+* **Paczki**: pandas, numpy, seaborn, selenium
+* **craper Github**: https://github.com/arapfaik/scraping-glassdoor-selenium
+* **Scraper Artykuł**: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 
 
 ## Web Scraping
