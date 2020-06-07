@@ -37,7 +37,7 @@ Jest to portal polularny w ameryce dlatego niektóre z powyższych wartości by�
 Wiekszość danych nadawała się do użytku. Dodałem kilka kolumn aby zaprezętować dane w lepszy sposób.
 
 ## Obróbka danych
-Całość można zaleść w pliku obrobka_danych.ipynb. Tutaj zaprezentuje kilka przykładowych wykresów.
+Całość można zaleść w pliku [obrobka_danych.ipynb](https://github.com/mikolaj1244/ds_niemiecki_rynek/blob/master/obrobka_danych.ipynb). Tutaj zaprezentuje kilka przykładowych wykresów.
 
 ![alt text](https://github.com/mikolaj1244/ds_niemiecki_rynek/blob/master/angielski.png "Czy firma przyjmuje osoby mówiące po angielsku")
 ![alt text](https://github.com/mikolaj1244/ds_niemiecki_rynek/blob/master/python.png "Zapotrzebowanie na osoby posługujące się pythonem")
